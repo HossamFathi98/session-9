@@ -1,0 +1,23 @@
+section {
+    background-color: #eee;
+    width: 96%;
+    height: 700px;
+    margin: 15px auto;
+    padding: 15px;
+}
+.serv {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.part {
+    float: left;
+    width: 250px;
+    padding-left: 60px;
+    margin: 20px auto;
+    text-align: center;
+}
+.line {
+    width: 100%;
+    background-color: aquamarine;
+    height: 2px;
+}
